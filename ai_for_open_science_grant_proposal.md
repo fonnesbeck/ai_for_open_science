@@ -6,7 +6,7 @@
 
 **Executive Summary**
 
-We propose developing an AI system that automates the identification and explanation of divergences between epidemic models, addressing a critical gap in public health decision-making. By providing Large Language Models (LLMs) with comprehensive access to model code, documentation, metadata, and outputs from established modeling hubs, our system will generate testable hypotheses about projection differences. This tool will transform how modelers and decision-makers understand multi-model ensembles, initially focusing on seasonal respiratory viruses where training data is rich. The project leverages existing infrastructure from the US Scenario Modeling Hub while introducing novel AI capabilities for model interpretation. All software will be released under open-source licenses (MIT/Apache 2.0).
+We propose developing an AI system that automates the identification and explanation of divergences between epidemic models, addressing a critical gap in public health decision-making. By providing Large Language Models (LLMs) with comprehensive access to model code, documentation, metadata, and outputs from established modeling hubs, our system will generate testable hypotheses about projection differences. This tool will transform how modelers and decision-makers understand multi-model ensembles, initially focusing on seasonal respiratory viruses where training data are rich. The project leverages existing infrastructure from the US Scenario Modeling Hub while introducing novel AI capabilities for model interpretation. All software will be released under open-source licenses (MIT/Apache 2.0).
 
 **Critical Challenges**
 
